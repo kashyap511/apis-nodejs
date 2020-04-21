@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "Personal Loan"
+        },
+        {
+            "name": "Two/Four wheeler Loan"
+        },
+        {
+            "name": "Education Loan"
+        },
+        {
+            "name": "Housing Loan"
+        }
+    ],
+    "contactInfo": {
+        "number": "1800-123-4567"
+    }
+}
