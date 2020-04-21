@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Customer 1",
+            "age": 30
+        },
+        {
+            "name": "Customer 2",
+            "age": 31
+        },
+        {
+            "name": "Customer 3",
+            "age": 32
+        },
+        {
+            "name": "Customer 4",
+            "age": 32
+        }
+    ]
+}
